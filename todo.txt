@@ -1,0 +1,4 @@
+[x] - cambiar perttier a 2 tabs de identacion
+[x] - mejorar autocompletado
+[x] - salir del terminal lua
+[ ] -
